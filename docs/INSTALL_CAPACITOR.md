@@ -67,6 +67,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 *Nothing else to perform*
 
-
-
+Headless fetch w/
+Capacitor and config.xml
 
